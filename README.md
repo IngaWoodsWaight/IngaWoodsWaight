@@ -1,6 +1,6 @@
 ## About-Me
 
-#Hi, I'm Inga Woods-Waight! 👋
+Hi, I'm Inga Woods-Waight! 👋
 
 Engineering Student | Technical Marketing Enthusiast | Open-Source Advocate
 
